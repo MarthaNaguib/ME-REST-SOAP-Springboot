@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "aerospike",
+      "type": "com.example.mesample.config.AerospikeConfigurationProperties",
+      "sourceType": "com.example.mesample.config.AerospikeConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aerospike.host",
+      "type": "java.lang.String",
+      "sourceType": "com.example.mesample.config.AerospikeConfigurationProperties"
+    },
+    {
+      "name": "aerospike.namespace",
+      "type": "java.lang.String",
+      "sourceType": "com.example.mesample.config.AerospikeConfigurationProperties"
+    },
+    {
+      "name": "aerospike.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.mesample.config.AerospikeConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
